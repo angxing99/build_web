@@ -1,0 +1,116 @@
+{
+  "appName": "Ship Energy Efficiency Management System",
+  "mobileAppName": "SEEMS",
+  "company": "Company",
+  "selectCompany": "Select Company",
+  "go": "Go",
+  "email": "Email",
+  "password": "Password",
+  "login": "Login",
+  "Fleet Home": "Fleet Home",
+  "argLastHours": "Last {} Hours",
+  "argLastDays": "Last {} days",
+  "allEvents": "All Events",
+  "system": "System",
+  "userAccount": "User Account",
+  "engine": "Engine",
+  "signal": "Signal",
+  "bunkering": "Bunkering",
+  "operationMode": "Operation Mode",
+  "tempOperationMode": "Operation Mode",
+  "voyage": "Voyage",
+  "CompanyList": "Company List",
+  "Add": "Add",
+  "Edit": "Edit",
+  "Delete": "Delete",
+  "CompanyName": "Company Name",
+  "MeasurementUnit": "Measurement Unit",
+  "DisplayLanguage": "Display Language",
+  "Save": "Save",
+  "add": "Add",
+  "edit": "Edit",
+  "delete": "Delete",
+  "fleetAssignment": "Fleet Assignment",
+  "ams": "AMS",
+  "fuel": "Fuel",
+  "report": "Report",
+  "dashboard": "Dashboard",
+  "consRoute": "Cons Route",
+  "loadingUnloading": "Loading/Unloading",
+  "analogSignal": "Analog Signal",
+  "otherSignal": "Other Signal",
+  "shiftPower": "Shift Power",
+  "fuelCons": "Fuel Cons",
+  "fuelLoading": "Fuel Loading",
+  "user": "User",
+  "userrole": "User Role",
+  "menu": "Menu",
+  "reports": "Reports",
+  "fleetOverview": "Fleet Overview",
+  "shipOverview": "Ship Overview",
+  "fuelConsumptionManagement": "Fuel Consumption",
+  "alarmMonitoring": "Alarm Monitoring",
+  "shipReport": "Ship Report",
+  "bunkeringAnalysis": "Bunkering Analysis",
+  "eom": "EOM",
+  "shorePowerMonitoring": "Shore Power Monitoring",
+  "shaftPowerMeter": "Shaft Power Meter",
+  "cctvMonitoring": "CCTV Monitoring",
+  "crewKPI": "Crew KPI",
+  "tankMonitoring": "Tank Monitoring",
+  "pms": "PMS",
+  "gasEmission": "Gas Emission",
+  "instantMessenger": "Instant Messenger",
+  "companyState": "Management Company",
+  "userMenu": "Management User",
+  "userRole": "Management User Role",
+  "fleet": "Management Fleet",
+  "ship": "Management Ship",
+  "bridgeLiveMonitoring": "Bridge Live Monitoring",
+  "navigationPanel": "Navigation Panel",
+  "tripSummary": "Trip Summary",
+  "fuelConsManagement": "Fuel Cons Management",
+  "fuelConsumptionReport": "Fuel Consumption Report",
+  "engineLogBook": "Engine LogBook",
+  "navigationLogBook": "Navigation LogBook",
+  "eventAlarmReport": "EventA larm Report",
+  "tripReport": "Trip Report",
+  "eomReport": "EOM Report",
+  "positionReport": "Position Report",
+  "shorePowerReport": "Shore Power Report",
+  "bunkeringAnalysisReport": "Bunkering Analysis Report",
+  "userFleetManagement": "User Fleet Management",
+  "shipAssignment": "Ship Assignment",
+  "send": "Send",
+  "view": "View",
+  "approval": "Approval",
+  "change": "Change",
+  "enterRoleName": "Enter User Role Name"
+
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+}
